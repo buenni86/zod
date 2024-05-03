@@ -5733,7 +5733,7 @@
         {
          "name":"mapName",
          "type":"string",
-         "value":"Bahnhof"
+         "value":"ZOD Event"
         }, 
         {
          "name":"script",
