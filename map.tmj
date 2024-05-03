@@ -5728,7 +5728,7 @@
         {
          "name":"mapImage",
          "type":"string",
-         "value":"bahnhof.png"
+         "value":"map.png"
         }, 
         {
          "name":"mapName",
