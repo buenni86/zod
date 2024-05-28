@@ -1242,15 +1242,14 @@
                     {
                      "color":"#eeeeee",
                      "fontfamily":"Press Start 2P",
-                     "halign":"center",
                      "pixelsize":29,
                      "text":"Barcamp Sessions Markt",
                      "wrap":true
                     },
                  "type":"",
                  "visible":true,
-                 "width":345.364666666667,
-                 "x":2334.47333333333,
+                 "width":593.364666666667,
+                 "x":2346,
                  "y":1409.42732424242
                 }, 
                 {
@@ -1262,7 +1261,7 @@
                     {
                      "color":"#eeeeee",
                      "fontfamily":"Press Start 2P",
-                     "halign":"center",
+                     "halign":"right",
                      "pixelsize":29,
                      "text":"Barcamp Sessions Systel",
                      "wrap":true
@@ -1270,7 +1269,7 @@
                  "type":"",
                  "visible":true,
                  "width":402.364666666667,
-                 "x":550.82,
+                 "x":519,
                  "y":1475.1849
                 }, 
                 {
@@ -1282,7 +1281,7 @@
                     {
                      "color":"#eeeeee",
                      "fontfamily":"Press Start 2P",
-                     "halign":"center",
+                     "halign":"right",
                      "pixelsize":29,
                      "text":"Barcamp Sessions Konzern\u200b",
                      "wrap":true
@@ -1290,7 +1289,7 @@
                  "type":"",
                  "visible":true,
                  "width":377.698,
-                 "x":550.151,
+                 "x":541,
                  "y":2084.1849
                 }, 
                 {
@@ -1302,7 +1301,6 @@
                     {
                      "color":"#eeeeee",
                      "fontfamily":"Press Start 2P",
-                     "halign":"center",
                      "pixelsize":29,
                      "text":"Barcamp Sessions\u200b Netzwerk",
                      "wrap":true
@@ -1310,7 +1308,7 @@
                  "type":"",
                  "visible":true,
                  "width":471.698,
-                 "x":2295.151,
+                 "x":2346,
                  "y":1922.6849
                 }, 
                 {
@@ -1687,450 +1685,9 @@
         }, 
         {
          "draworder":"topdown",
-         "id":45,
-         "name":"signs",
-         "objects":[
-                {
-                 "height":17.6364,
-                 "id":28,
-                 "name":"sign1",
-                 "properties":[
-                        {
-                         "name":"allowApi",
-                         "type":"bool",
-                         "value":true
-                        }, 
-                        {
-                         "name":"url",
-                         "type":"string",
-                         "value":"sign.html?name=sign1"
-                        }],
-                 "rotation":0,
-                 "type":"website",
-                 "visible":true,
-                 "width":59.0909,
-                 "x":3486.12121666667,
-                 "y":2346.72346666667
-                }, 
-                {
-                 "height":17.6363636363637,
-                 "id":2,
-                 "name":"sign2",
-                 "properties":[
-                        {
-                         "name":"allowApi",
-                         "type":"bool",
-                         "value":true
-                        }, 
-                        {
-                         "name":"url",
-                         "type":"string",
-                         "value":"sign.html?name=sign2"
-                        }],
-                 "rotation":0,
-                 "type":"website",
-                 "visible":true,
-                 "width":59.090909090909,
-                 "x":3486,
-                 "y":2027.09090909091
-                }, 
-                {
-                 "height":17.6364,
-                 "id":17,
-                 "name":"sign3",
-                 "properties":[
-                        {
-                         "name":"allowApi",
-                         "type":"bool",
-                         "value":true
-                        }, 
-                        {
-                         "name":"url",
-                         "type":"string",
-                         "value":"sign.html?name=sign3"
-                        }],
-                 "rotation":0,
-                 "type":"website",
-                 "visible":true,
-                 "width":59.0909,
-                 "x":3486.27273181818,
-                 "y":1706.81816363636
-                }, 
-                {
-                 "height":17.6364,
-                 "id":18,
-                 "name":"sign4",
-                 "properties":[
-                        {
-                         "name":"allowApi",
-                         "type":"bool",
-                         "value":true
-                        }, 
-                        {
-                         "name":"url",
-                         "type":"string",
-                         "value":"sign.html?name=sign4"
-                        }],
-                 "rotation":0,
-                 "type":"website",
-                 "visible":true,
-                 "width":59.0909,
-                 "x":3486.27273181818,
-                 "y":1386.81816363636
-                }, 
-                {
-                 "height":17.6364,
-                 "id":19,
-                 "name":"sign5",
-                 "properties":[
-                        {
-                         "name":"allowApi",
-                         "type":"bool",
-                         "value":true
-                        }, 
-                        {
-                         "name":"url",
-                         "type":"string",
-                         "value":"sign.html?name=sign5"
-                        }],
-                 "rotation":0,
-                 "type":"website",
-                 "visible":true,
-                 "width":59.0909,
-                 "x":3486.20455,
-                 "y":1066.76513333333
-                }, 
-                {
-                 "height":17.6364,
-                 "id":21,
-                 "name":"sign6",
-                 "properties":[
-                        {
-                         "name":"allowApi",
-                         "type":"bool",
-                         "value":true
-                        }, 
-                        {
-                         "name":"url",
-                         "type":"string",
-                         "value":"sign.html?name=sign6"
-                        }],
-                 "rotation":0,
-                 "type":"website",
-                 "visible":true,
-                 "width":59.0909,
-                 "x":3486.08,
-                 "y":746.682
-                }, 
-                {
-                 "height":0,
-                 "id":44,
-                 "name":"sign1",
-                 "point":true,
-                 "properties":[
-                        {
-                         "name":"default",
-                         "type":"string",
-                         "value":"Track 1"
-                        }, 
-                        {
-                         "name":"label",
-                         "type":"string",
-                         "value":"Track 1 Zeile 1:"
-                        }],
-                 "rotation":0,
-                 "type":"variable",
-                 "visible":true,
-                 "width":0,
-                 "x":3490,
-                 "y":2335.33333333333
-                }, 
-                {
-                 "height":0,
-                 "id":45,
-                 "name":"sign1_2",
-                 "point":true,
-                 "properties":[
-                        {
-                         "name":"default",
-                         "type":"string",
-                         "value":""
-                        }, 
-                        {
-                         "name":"label",
-                         "type":"string",
-                         "value":"Track 1 Zeile 2:"
-                        }],
-                 "rotation":0,
-                 "type":"variable",
-                 "visible":true,
-                 "width":0,
-                 "x":3538,
-                 "y":2334
-                }, 
-                {
-                 "height":0,
-                 "id":46,
-                 "name":"sign2",
-                 "point":true,
-                 "properties":[
-                        {
-                         "name":"default",
-                         "type":"string",
-                         "value":"Track 2"
-                        }, 
-                        {
-                         "name":"label",
-                         "type":"string",
-                         "value":"Track 2 Zeile 1:"
-                        }],
-                 "rotation":0,
-                 "type":"variable",
-                 "visible":true,
-                 "width":0,
-                 "x":3489.33333333333,
-                 "y":2018
-                }, 
-                {
-                 "height":0,
-                 "id":47,
-                 "name":"sign2_2",
-                 "point":true,
-                 "properties":[
-                        {
-                         "name":"default",
-                         "type":"string",
-                         "value":""
-                        }, 
-                        {
-                         "name":"label",
-                         "type":"string",
-                         "value":"Track 2 Zeile 2:"
-                        }],
-                 "rotation":0,
-                 "type":"variable",
-                 "visible":true,
-                 "width":0,
-                 "x":3538.66666666667,
-                 "y":2017.33333333333
-                }, 
-                {
-                 "height":0,
-                 "id":48,
-                 "name":"sign4",
-                 "point":true,
-                 "properties":[
-                        {
-                         "name":"default",
-                         "type":"string",
-                         "value":"Track 4"
-                        }, 
-                        {
-                         "name":"label",
-                         "type":"string",
-                         "value":"Track 4 Zeile 1:"
-                        }],
-                 "rotation":0,
-                 "type":"variable",
-                 "visible":true,
-                 "width":0,
-                 "x":3493.33333333333,
-                 "y":1376.66666666667
-                }, 
-                {
-                 "height":0,
-                 "id":49,
-                 "name":"sign4_2",
-                 "point":true,
-                 "properties":[
-                        {
-                         "name":"default",
-                         "type":"string",
-                         "value":""
-                        }, 
-                        {
-                         "name":"label",
-                         "type":"string",
-                         "value":"Track 4 Zeile 2:"
-                        }],
-                 "rotation":0,
-                 "type":"variable",
-                 "visible":true,
-                 "width":0,
-                 "x":3540,
-                 "y":1374
-                }, 
-                {
-                 "height":0,
-                 "id":52,
-                 "name":"sign6",
-                 "point":true,
-                 "properties":[
-                        {
-                         "name":"default",
-                         "type":"string",
-                         "value":"Track 6"
-                        }, 
-                        {
-                         "name":"label",
-                         "type":"string",
-                         "value":"Track 6 Zeile 1:"
-                        }],
-                 "rotation":0,
-                 "type":"variable",
-                 "visible":true,
-                 "width":0,
-                 "x":3492.66666666667,
-                 "y":736.666666666667
-                }, 
-                {
-                 "height":0,
-                 "id":53,
-                 "name":"sign6_2",
-                 "point":true,
-                 "properties":[
-                        {
-                         "name":"default",
-                         "type":"string",
-                         "value":""
-                        }, 
-                        {
-                         "name":"label",
-                         "type":"string",
-                         "value":"Track 6 Zeile 2:"
-                        }],
-                 "rotation":0,
-                 "type":"variable",
-                 "visible":true,
-                 "width":0,
-                 "x":3539.33333333333,
-                 "y":735.333333333333
-                }, 
-                {
-                 "height":123,
-                 "id":121,
-                 "name":"Sign2",
-                 "properties":[
-                        {
-                         "name":"policy",
-                         "type":"string",
-                         "value":"fullscreen;screen-wake-lock;autoplay;"
-                        }, 
-                        {
-                         "name":"url",
-                         "type":"string",
-                         "value":".\/digital-sign.html"
-                        }],
-                 "rotation":0,
-                 "type":"website",
-                 "visible":true,
-                 "width":233.5,
-                 "x":3275.25,
-                 "y":446.5
-                }],
-         "opacity":1,
-         "type":"objectgroup",
-         "visible":true,
-         "x":0,
-         "y":0
-        }, 
-        {
-         "draworder":"topdown",
          "id":83,
          "name":"configuration",
-         "objects":[
-                {
-                 "height":0,
-                 "id":54,
-                 "name":"sign5",
-                 "point":true,
-                 "properties":[
-                        {
-                         "name":"default",
-                         "type":"string",
-                         "value":"Success"
-                        }, 
-                        {
-                         "name":"label",
-                         "type":"string",
-                         "value":"Track 5 Zeile 1:"
-                        }],
-                 "rotation":0,
-                 "type":"variable",
-                 "visible":true,
-                 "width":0,
-                 "x":3498.33,
-                 "y":1069.67
-                }, 
-                {
-                 "height":0,
-                 "id":55,
-                 "name":"sign5_2",
-                 "point":true,
-                 "properties":[
-                        {
-                         "name":"default",
-                         "type":"string",
-                         "value":"Stories"
-                        }, 
-                        {
-                         "name":"label",
-                         "type":"string",
-                         "value":"Track 5 Zeile 2:"
-                        }],
-                 "rotation":0,
-                 "type":"variable",
-                 "visible":true,
-                 "width":0,
-                 "x":3540,
-                 "y":1072
-                }, 
-                {
-                 "height":0,
-                 "id":130,
-                 "name":"sign3",
-                 "point":true,
-                 "properties":[
-                        {
-                         "name":"default",
-                         "type":"string",
-                         "value":"Anwendertag"
-                        }, 
-                        {
-                         "name":"label",
-                         "type":"string",
-                         "value":"Track 3 Zeile 1:"
-                        }],
-                 "rotation":0,
-                 "type":"variable",
-                 "visible":true,
-                 "width":0,
-                 "x":3492.33,
-                 "y":1709.67
-                }, 
-                {
-                 "height":0,
-                 "id":129,
-                 "name":"sign3_2",
-                 "point":true,
-                 "properties":[
-                        {
-                         "name":"default",
-                         "type":"string",
-                         "value":"2022"
-                        }, 
-                        {
-                         "name":"label",
-                         "type":"string",
-                         "value":"Track 3 Zeile 2:"
-                        }],
-                 "rotation":0,
-                 "type":"variable",
-                 "visible":true,
-                 "width":0,
-                 "x":3543,
-                 "y":1708
-                }],
+         "objects":[],
          "opacity":1,
          "type":"objectgroup",
          "visible":true,
